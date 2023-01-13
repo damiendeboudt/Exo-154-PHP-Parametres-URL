@@ -19,7 +19,10 @@
  * Créez au moins 10 liens à l'aide d'une boucle !!!
  * Pour chaque lien, le paramètre iteration prendra la valeur actuelle de votre variable de boucle ( $i par exemple ).
  */
-
+?>
+<a href="exo1.php?iteration=10">Lien vers site exo1.php</a>
+<br>
+<a href="exo2.php?iteration=10">Lien vers site exo2.php</a>
 
 
 
